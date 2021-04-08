@@ -8,7 +8,7 @@ I have access of a complete dataset from Pymaceuticals' animal study. In this st
 My tasks:
 
 * Checked the data for any mouse ID with duplicate time points and remove any data associated with that mouse ID (i.e., exclude that mouse from the analysis). 
-* 
+
 * Generated a summary statistics table consisting of the mean, median, variance, standard deviation, and SEM of the tumor volume for each drug regimen.
 
 * Generated a bar plot using both Pandas' `DataFrame.plot()` and Matplotlib's `pyplot` that shows  the number of total mice for each treatment regimen throughout the course of the study.
