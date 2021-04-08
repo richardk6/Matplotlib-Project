@@ -1,2 +1,2 @@
-# matplotlib-homework
-Homework 5: Matplotlib Homework
+# matplotlib-project
+Matplotlib Project
